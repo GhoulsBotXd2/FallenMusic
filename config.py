@@ -24,4 +24,4 @@ SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/RealmBotSupport")
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1356469075").split()))
 
 
-FAILED = "https://te.legra.ph/file/4c896584b592593c00aa8.jpg"
+FAILED = "https://te.legra.ph/file/7bc14726121586044b18b.jpg"
